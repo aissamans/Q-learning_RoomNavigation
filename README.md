@@ -2,6 +2,8 @@
 
 **Q-learning_RoomNavigation** is a Python project that demonstrates a basic Q-learning algorithm. It guides an agent through interconnected rooms by learning the optimal path using a reward matrix and iterative training.
 
+---
+
 ## Overview
 
 This repository contains:
@@ -9,6 +11,8 @@ This repository contains:
 - A reward matrix representing the environment with 6 states (rooms).
 - Training logic that updates the Q-matrix to learn the optimal navigation path.
 - A testing phase that uses the trained Q-matrix to determine the best route from a starting state to the goal.
+
+---
 
 ## How It Works
 
@@ -23,6 +27,8 @@ This repository contains:
 3. **Training and Testing:**  
    - **Training:** The Q-matrix is iteratively updated over many episodes.
    - **Testing:** The agent uses the trained Q-matrix to determine the optimal path from a starting room to the goal.
+
+---
 
 ## Installation
 
@@ -44,13 +50,15 @@ The script will:
    - Train the agent through 10,000 iterations.
    - Output the updated Q-matrix and the optimal path from the starting state to the goal state.
 
+---
+
 ## Visuals
 
 The repository includes diagrams and images that illustrate the reinforcement learning environment and the agent's navigation path. You can view them in the images/ directory.
 
 ## License
 
-This project is open source and available under the MIT License.
+The code is available for personal/educational use.
 
 ## Contributing
 
@@ -59,3 +67,7 @@ Feel free to fork the repository and submit pull requests if you have improvemen
 ## Contact
 
 For any questions or suggestions, please contact aissam.mansouri93@gmail.com.
+
+---
+
+Thank you for visiting my repository!
